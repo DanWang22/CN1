@@ -1,0 +1,24 @@
+# Our most preferred data file format is YAML
+# YAML stands for Yet Another Markup Language
+# YAML is great for us because:
+# - It allows comments with the hash tag,
+#   just as these comments at the beginning of this file
+# - YAML has a similar 'format' to Python using indentation
+# - More and more Linux configuration files are in YAML format
+# - YAML can be read by many different applications and coding languages
+# - We can validate our datafile copying/pasting into http://www.yamllint.com/
+# - This tool will retain the comments:
+#   https://www.json2yaml.com/convert-yaml-to-json (ignore the JSON bit for now)
+
+idol:
+    age: 26
+    Name: Jennie Kim
+    height: 163 cm
+    hair colour: black
+    gender: female
+    career: musician
+    Place of birth: new zealand
+    Zodiac sign: Capricorn
+    Birthmonth: January
+    Birthyear: 1996
+    Residence: Korea
